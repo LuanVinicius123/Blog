@@ -1,5 +1,5 @@
 Django==5.2.8
-Pillow
-django-crispy-forms
-crispy-bootstrap4
-python-decouple
+Pillow==12.0.0
+django-crispy-forms==2.5
+crispy-bootstrap4==2025.6
+python-decouple==3.8
